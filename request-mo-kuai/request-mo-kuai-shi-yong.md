@@ -464,7 +464,7 @@ response = requests.get(url,verify=False)
 
 下面面我们通过金山翻译的例子看看post请求如何使用：
 
-1. 地址：[http://fy.iciba.com/](http://fy.iciba.com)
+1. 地址：[http://fy.iciba.com/](http://fy.iciba.com/)
 
 **思路分析**
 

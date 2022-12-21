@@ -21,16 +21,16 @@
 > 爬虫在互联网世界中有很多的作用，比如：
 
 1. [数据采集](https://www.lagou.com/jobs/list\_Python%20%E7%88%AC%E8%99%AB?labelWords=\&fromSearch=true\&suginput=)
-   1. [抓取微博评论](https://weibo.com)(机器学习舆情监控)
+   1. [抓取微博评论](https://weibo.com/)(机器学习舆情监控)
    2. [抓取招聘网站的招聘信息](https://www.lagou.com/jobs/list\_python%E7%88%AC%E8%99%AB?px=default\&city=%E5%8C%97%E4%BA%AC#filterBox)(数据分析、挖掘)
    3. [新浪滚动新闻](https://news.sina.com.cn/roll/#pageid=153\&lid=2509\&k=\&num=50\&page=1)
-   4. [百度新闻网站](http://news.baidu.com)
+   4. [百度新闻网站](http://news.baidu.com/)
 2. [软件测试](https://www.lagou.com/jobs/list\_%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95?city=%E5%8C%97%E4%BA%AC\&cl=false\&fromSearch=true\&labelWords=\&suginput=)
    1. [爬虫之自动化测试](https://blog.csdn.net/ZTZY520/article/details/53940127)
    2. [虫师](https://www.cnblogs.com/fnng/)
 3. [12306抢票](http://www.12306.cn/mormhweb/)
 4. 网站上的投票
-   1. [投票网](https://www.toutoupiao.com)
+   1. [投票网](https://www.toutoupiao.com/)
 5. 网络安全
    1. [短信轰炸](https://www.sohu.com/a/232477043\_99936149)
       1. [注册页面1](https://hwid1.vmall.com/CAS/portal/userRegister/regbyphone.html?reqClientType=1\&loginChannel=1000002\&countryCode=cn\&loginUrl=https%3A%2F%2Fhwid1.vmall.com%2FCAS%2Fportal%2FcloudLogin.html\&service=https%3A%2F%2Fwww.hicloud.com%3A443%2Fothers%2Flogin.action\&lang=zh-cn\&themeName=red)
