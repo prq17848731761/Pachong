@@ -5,7 +5,7 @@
 * 了解 常见的响应状态码
 * 理解 浏览器和爬虫爬取的区别
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 ## 1. http以及https的概念和区别
 
