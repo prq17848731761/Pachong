@@ -2,7 +2,7 @@
 
 * [第一章 爬虫基础](README.md)
   * [爬虫概述](di-yi-zhang-pa-chong-ji-chu/pa-chong-gai-shu.md)
-  * [http协议复习](di-yi-zhang-pa-chong-ji-chu/http-xie-yi-fu-xi/README.md)
+  * [http协议复习](di-yi-zhang-pa-chong-ji-chu/http-xie-yi-fu-xi.md)
     * [Page 4](di-yi-zhang-pa-chong-ji-chu/http-xie-yi-fu-xi/page-4.md)
 * [第二章 request模块](di-er-zhang-request-mo-kuai/README.md)
   * [request模块使用](di-er-zhang-request-mo-kuai/request-mo-kuai-shi-yong.md)
